@@ -4,10 +4,6 @@ I'm a PhD Candidate at the Lassonde School of Engineering, York University, work
 
 I mostly build analytical tools, spatial models, and interactive maps to support decision-making and risk assessment for cases such as emergency response or wildfire.
 
-**Links**  
-🔗 LinkedIn: [Masoud Amirdadi](https://www.linkedin.com/in/masoud-amirdadi-058742201/)  
-🔗 Research Lab: [SimuTraffX](https://www.simutraffx.com/)
-
 Thanks for visiting my profile!
 
 <p align="left">
