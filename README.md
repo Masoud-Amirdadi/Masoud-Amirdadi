@@ -1,6 +1,6 @@
 ### Hi, I'm Masoud Amirdadi 👋
 
-I'm a PhD Candidate at the Lassonde School of Engineering, York University, working at the intersection of operations research, optimization, GIS, and machine learning.
+I'm a PhD student at the Lassonde School of Engineering, York University, working at the intersection of operations research, optimization, GIS, and machine learning.
 
 I mostly build analytical tools, spatial models, and interactive maps to support decision-making and risk assessment for cases such as emergency response or wildfire.
 
